@@ -5,6 +5,4 @@
  $month = 1; 
  // Assign the value 2021 to the variable "year" 
  $year = 2021; 
-
- echo $greeting; $month; $year;
 ?>
